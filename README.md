@@ -1,7 +1,7 @@
-<h1> Xin chào, mình là Bùi Lê Bảo Luân UwU <img src="https://cdn.fbsbx.com/v/t59.2708-21/50995127_377545909732170_5920562780598960128_n.gif?_nc_cat=106&ccb=1-5&_nc_sid=041f46&_nc_ohc=0T9P4YxEOhEAX-s4mOL&_nc_ht=cdn.fbsbx.com&oh=30a7908ef838967e2b0611ba347d6e50&oe=616FCCB9" width="25"></h1> 
+<h1> Xin chào, mình là Bùi Lê Bảo Luân UwU <img src="https://i.pinimg.com/originals/4c/4f/68/4c4f684de3f549ed136e608f21ff4154.gif" width="25"></h1> 
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://cdn.fbsbx.com/v/t59.2708-21/50995127_377545909732170_5920562780598960128_n.gif?_nc_cat=106&ccb=1-5&_nc_sid=041f46&_nc_ohc=0T9P4YxEOhEAX-s4mOL&_nc_ht=cdn.fbsbx.com&oh=30a7908ef838967e2b0611ba347d6e50&oe=616FCCB9" />
+    <img align="center" alt="PNG" src="https://i.pinimg.com/originals/4c/4f/68/4c4f684de3f549ed136e608f21ff4154.gif" />
 </p> 
 <h1>HƯỚNG DẪN CÁCH CÀI ĐẶT BOT MESSENGER TRÊN CÁC NỀN TẢNG</h1>
 
